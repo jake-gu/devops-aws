@@ -1,0 +1,21 @@
+{
+  "name": "devops-aws",
+  "version": "1.0.0",
+  "description": "devops for aws test",
+  "homepage": "https://github.com/jake-gu/devops-aws#readme",
+  "bugs": {
+    "url": "https://github.com/jake-gu/devops-aws/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jake-gu/devops-aws.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  }
+}
